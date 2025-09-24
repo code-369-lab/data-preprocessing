@@ -1,4 +1,4 @@
-# Titanic Data Preprocessing
+# Titanic Dataset - Data Preprocessing
 
 This repository contains:
 - `preprocessing.py` : Python script to clean and preprocess the Titanic dataset
